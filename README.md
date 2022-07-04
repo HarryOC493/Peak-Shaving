@@ -2,7 +2,7 @@
 By Harry O'Connor @ ResourceKraft 14/Jun/22
 
 A Peak Shaving Algorithm, Built to scale with as many batteries you have. Includes simulated power draw.
-https://fullstackenergy.com/peak-shaving-through-the-use-of-battery-technology/
+<br>https://fullstackenergy.com/peak-shaving-through-the-use-of-battery-technology/
 
 
 The goal of this project was to create a simple algorithm, that could apply 'Peak Shaving' to Ireland's grid, through the use of a battery bank, which would recharge during periods of low demand, and discharge during periods of high power demand, to help alleviate some of the pressure on our grid
